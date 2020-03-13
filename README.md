@@ -15,3 +15,13 @@ See the original repository at [Siraj Raval repository](https://github.com/llSou
 * Make a public log of your work. Update it daily. Here is a GitHub example template. Another one is here. You can also *make a blog or vlog.
 
 * If you see someone make a post using the #100DaysofMLCode hashtag, encourage them via a 'like', 'share', or comment!
+
+## How i plan the challenge
+
+Plan my learning based on the structure of the two online courses that I consider to be best evaluated by people who already work in the field of data science
+
+[Machine Learningby Stanford University taught by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/info)
+
+[Python for Data Science and Machine Learning Bootcamp taught by Jose Portilla](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)
+
+These courses are extensive enough to accompany me during this challenge and with enough information to not have downtime, in addition to always continuing in the right direction in my learning
