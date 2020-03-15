@@ -42,6 +42,18 @@
 ## Time :
 ## Introduction to Machine learning
 
+# Day 
+## Time :
+## Machine learning definition
+
+# Day
+## Time : 
+## Supervised learning
+
+# Day
+## Time :
+## Unsupervised learning
+
 # Day 12
 ## Time :
 ## Linear regression
