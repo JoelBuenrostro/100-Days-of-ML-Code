@@ -2,6 +2,13 @@
 ## Time : 
 ## Environment Setup
 
+# Day
+## Time:
+## Jupyter Notebook and Jupyter Lab overview
+
+# Day
+## Virtual environments
+
 # Day 2
 ## Time :
 ## Numpy
