@@ -3,6 +3,6 @@
 ## Basic
 
 ### Print
-```
+```python
 print('Hello world')
 ```
