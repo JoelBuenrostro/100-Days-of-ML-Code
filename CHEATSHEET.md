@@ -1,5 +1,17 @@
 # Cheat sheet
 
+## Pip
+
+### Install packages
+'''
+pip install packagename
+'''
+
+### Update packages
+'''
+pip install packagename --upgrade
+'''
+
 ## Basic Python
 
 ### Print
