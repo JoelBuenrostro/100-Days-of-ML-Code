@@ -4,6 +4,8 @@ This is my experience with the challenge 100 days of ML code
 
 ## Motivation
 
+In this age of modern technology, there is one resource that we have in abundance: a large amount of structured and unstructured data. In the second half of the 20th century, machine learning evolved as a subfield of artificial intelligence (AI) involving self-learning algorithms that derive knowledge from data in order to make predictions.
+
 100 Days of ML Code is a committment to better your understanding of this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning for 100 days.
 
 See the original repository at [Siraj Raval repository](https://github.com/llSourcell/100_Days_of_ML_Code).
