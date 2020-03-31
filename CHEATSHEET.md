@@ -3,14 +3,14 @@
 ## Pip
 
 ### Install packages
-'''
+```bash
 pip install packagename
-'''
+```
 
 ### Update packages
-'''
+```bash
 pip install packagename --upgrade
-'''
+```
 
 ## Basic Python
 
