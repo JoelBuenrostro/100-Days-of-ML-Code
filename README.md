@@ -31,3 +31,5 @@ All resources used (fully or partially) for the challenge:
 * [Packtpub Workshops](https://courses.packtpub.com/) - One year of access to any interactive workshop at no charge for registered Packt users.
 
 * [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) - This comprehensive course will be your guide to learning how to use the power of Python to analyze data, create beautiful visualizations, and use powerful machine learning algorithms.
+
+* [Python A-Z™: Python For Data Science With Real Exercises](https://www.udemy.com/course/python-coding/) - Programming In Python For Data Analytics And Data Science. Learn Statistical Analysis, Data Mining And Visualization
