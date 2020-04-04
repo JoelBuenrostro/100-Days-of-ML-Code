@@ -37,3 +37,5 @@ All resources used (fully or partially) for the challenge:
 * [The Data Science Course 2020: Complete Data Science Bootcamp](https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/) - Complete Data Science Training: Mathematics, Statistics, Python, Advanced Statistics in Python, Machine & Deep Learning.
 
 * [JetBrains Academy](https://hi.hyperskill.org/) - Learn to Program by Creating Working Applications.
+
+* [Understanding Mchine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/table-of-contents) - Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.
