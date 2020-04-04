@@ -38,4 +38,6 @@ All resources used (fully or partially) for the challenge:
 
 * [JetBrains Academy](https://hi.hyperskill.org/) - Learn to Program by Creating Working Applications.
 
-* [Understanding Mchine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/table-of-contents) - Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.
+* [Understanding Machine Learning with Python](https://app.pluralsight.com/library/courses/python-understanding-machine-learning/table-of-contents) - Use your data to predict future events with the help of machine learning. This course will walk you through creating a machine learning prediction solution and will introduce Python, the scikit-learn library, and the Jupyter Notebook environment.
+
+* [Building Your First Machine Learning Solution](https://app.pluralsight.com/library/courses/building-machine-learning-solution/table-of-contents) - Machine learning is exciting, yet, it may sound more complicated than it is actually is. This course empowers you with the necessary theory and practice to become confident about how machine learning works by building a hands-on solution.

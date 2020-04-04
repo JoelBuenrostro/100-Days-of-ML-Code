@@ -12,6 +12,12 @@ The Jupyter dashboard, Optional virtual environments, Variables, Comments, Strin
 
 # Day 3
 ## Python Built-in Types
-### Time : 1H 12ms
+### Time : 1H 12m
 ### Topics :
 List, Slicing, Advanced slicing, Tuples, Dictionaries, Set, Comparators.
+
+# Day 4
+## Python Functions
+### Time : 1H 35m
+### Topics :
+While loops, For loops, If statements, Code indentation, Functions, Docstrings

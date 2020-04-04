@@ -32,3 +32,23 @@ print('Hello world')
 for x in range(10):
     print(x)
 ```
+### While loop
+```python
+x = 0
+while x < 10:
+    print(x)
+    x = x + 1
+```
+### If
+```python
+x = 10
+if x > 5:
+    print(Greater than five)
+else:
+    print(Less than five)
+```
+### Functions
+```python
+def square(number):
+    return number ** 2
+```
