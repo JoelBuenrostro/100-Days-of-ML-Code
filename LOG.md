@@ -20,4 +20,10 @@ List, Slicing, Advanced slicing, Tuples, Dictionaries, Set, Comparators.
 ## Python Functions
 ### Time : 1H 35m
 ### Topics :
-While loops, For loops, If statements, Code indentation, Functions, Docstrings
+While loops, For loops, If statements, Code indentation, Functions, Docstrings.
+
+# Day 5
+## Matrices
+### Time : 2H 10m
+### Topics :
+Package, Lambda, Methods, Law of large numbers, Matrices.
