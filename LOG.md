@@ -32,4 +32,10 @@ Package, Lambda, Methods, Law of large numbers, Matrices.
 ## Intruduction to linear algebra
 ### Time : 1H 20m
 ### Topics :
-Expanded visualization, Advance function design, Addition and subtraction of matrices, Linear algebra and geometry
+Expanded visualization, Advance function design, Addition and subtraction of matrices, Linear algebra and geometry.
+
+# Day 7
+## Linear algebra
+### Time : 1H 10m
+### Topics :
+Scalars and vectors, Matrix multiplication, Transpose of a matrix, Dot product of vectors, Tensors.

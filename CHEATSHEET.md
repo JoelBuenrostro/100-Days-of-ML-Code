@@ -52,3 +52,9 @@ else:
 def square(number):
     return number ** 2
 ```
+
+## NumPy
+### Array creation
+```python
+a = np.array([2,3,4])
+```
