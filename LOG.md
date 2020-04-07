@@ -27,3 +27,9 @@ While loops, For loops, If statements, Code indentation, Functions, Docstrings.
 ### Time : 2H 10m
 ### Topics :
 Package, Lambda, Methods, Law of large numbers, Matrices.
+
+# Day 6
+## Intruduction to linear algebra
+### Time : 1H 20m
+### Topics :
+Expanded visualization, Advance function design, Addition and subtraction of matrices, Linear algebra and geometry
