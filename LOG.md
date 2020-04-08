@@ -39,3 +39,9 @@ Expanded visualization, Advance function design, Addition and subtraction of mat
 ### Time : 1H 10m
 ### Topics :
 Scalars and vectors, Matrix multiplication, Transpose of a matrix, Dot product of vectors, Tensors.
+
+# Day 8
+## NumPy and arrays in Python
+### Time : 1H 5m
+### Topics :
+Numpy, Numpy array indexing, Numpy operations
