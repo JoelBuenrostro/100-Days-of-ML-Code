@@ -45,3 +45,9 @@ Scalars and vectors, Matrix multiplication, Transpose of a matrix, Dot product o
 ### Time : 1H 5m
 ### Topics :
 Numpy, Numpy array indexing, Numpy operations
+
+# Day 9
+## Pandas
+### Time : 2H 30m
+### Topics :
+Pandas overview, Read csv files, Series, Explore datasets, Dataframes, Renaming columns of a dataframe, Subsetting dataframes, Filtering dataframes.

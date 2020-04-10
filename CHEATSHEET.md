@@ -58,3 +58,17 @@ def square(number):
 ```python
 a = np.array([2,3,4])
 ```
+
+## Pandas
+### Read CSV
+```python
+f = pd.read_csv('path')
+```
+### Get dataframe column names
+```python
+df.columns
+```
+### Save dataframe to csv file
+```python
+df.to_csv('filename.csv', index=False, sep=',', encoding='utf-8')
+```

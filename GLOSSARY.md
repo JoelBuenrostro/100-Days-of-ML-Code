@@ -2,6 +2,10 @@
 Anaconda Distribution is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. Anaconda is platform-agnostic, so you can use it whether you are on Windows, macOS, or Linux.
 [Homepage](https://www.anaconda.com/)
 
+## Kaggle :
+Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 19,000 public datasets and 200,000 public notebooks to conquer any analysis in no time.
+[Homepage](https://www.kaggle.com/)
+
 ## Law of large numbers :
 In probability theory, the law of large numbers (LLN) is a theorem that describes the result of performing the same experiment a large number of times. According to the law, the average of the results obtained from a large number of trials should be close to the expected value and will tend to become closer to the expected value as more trials are performed.
 [Wikipedia](https://en.wikipedia.org/wiki/Law_of_large_numbers)
