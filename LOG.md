@@ -51,3 +51,9 @@ Numpy, Numpy array indexing, Numpy operations
 ### Time : 2H 30m
 ### Topics :
 Pandas overview, Read csv files, Series, Explore datasets, Dataframes, Renaming columns of a dataframe, Subsetting dataframes, Filtering dataframes.
+
+# Day 10
+## Operations with dataframes
+### Time : 2H 20m
+### Topics :
+Multi-index dataframes, Missing data, Groupby, Merging, Joining and Concatening, Read Excel files.
