@@ -68,4 +68,10 @@ Matplotlib, Introduction to Seaborn, Distribution plots, Categorical plots, Matr
 ## Pandas built-in data visualization
 ### Time : 2H
 ### Topics: 
-Regression plots, Style and color, Pandas built-in data visualization
+Regression plots, Style and color, Pandas built-in data visualization.
+
+# Day 13
+## 
+### Time : 17m
+### Topics :
+Joinplots, Histograms, Stacked histograms, KDE plots, Violinplots, Boxplots.
