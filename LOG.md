@@ -62,7 +62,7 @@ Multi-index dataframes, Missing data, Groupby, Merging, Joining and Concatening,
 ## Matplotlib and Seaborn
 ### Time : 2H 45m
 ### Topics :
-Matplotlib, Introduction to Seaborn, Distribution plots, Categorical plots, Matrix plots, Grids
+Matplotlib, Introduction to Seaborn, Distribution plots, Categorical plots, Matrix plots, Grids.
 
 # Day 12
 ## Pandas built-in visualization
