@@ -65,7 +65,7 @@ Multi-index dataframes, Missing data, Groupby, Merging, Joining and Concatening,
 Matplotlib, Introduction to Seaborn, Distribution plots, Categorical plots, Matrix plots, Grids
 
 # Day 12
-## 
+## Pandas built-in data visualization
 ### Time : 2H
 ### Topics: 
 Regression plots, Style and color, Pandas built-in data visualization
