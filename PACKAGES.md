@@ -16,3 +16,10 @@ built on top of the Python programming language.
 pandas aims to be the fundamental high-level building block for doing practical, real world data analysis in Python. Additionally, it has the broader goal of becoming the most powerful and flexible open source data analysis / manipulation tool available in any language.
 [Pandas](https://pandas.pydata.org/about/)
 
+## matplotlib
+Matplotlib is a library for making 2D plots of arrays in Python. Although it has its origins in emulating the MATLAB graphics commands, it is independent of MATLAB, and can be used in a Pythonic, object oriented way. Although Matplotlib is written primarily in pure Python, it makes heavy use of NumPy and other extension code to provide good performance even for large arrays.
+[Homepage](https://matplotlib.org/index.html)
+
+## seaborn
+Seaborn is a Python data visualization library based on matplotlib. It provides a high-level interface for drawing attractive and informative statistical graphics.
+[Homepage](https://seaborn.pydata.org/)

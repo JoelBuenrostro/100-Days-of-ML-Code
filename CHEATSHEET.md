@@ -72,3 +72,7 @@ df.columns
 ```python
 df.to_csv('filename.csv', index=False, sep=',', encoding='utf-8')
 ```
+### Read Excel files
+```python
+f = pd.read_excel('path', 'sheet')
+```
