@@ -71,7 +71,7 @@ Matplotlib, Introduction to Seaborn, Distribution plots, Categorical plots, Matr
 Regression plots, Style and color, Pandas built-in data visualization.
 
 # Day 13
-## 
-### Time : 17m
+## Boxplots
+### Time : 1H 17m
 ### Topics :
 Joinplots, Histograms, Stacked histograms, KDE plots, Violinplots, Boxplots.
