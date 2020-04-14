@@ -75,3 +75,9 @@ Regression plots, Style and color, Pandas built-in data visualization.
 ### Time : 1H 17m
 ### Topics :
 Joinplots, Histograms, Stacked histograms, KDE plots, Violinplots, Boxplots.
+
+# Day 14
+## Dashboards
+### Time : 1H 45m
+### Topics :
+Building dashboards in python
