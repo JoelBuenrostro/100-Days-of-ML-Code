@@ -81,3 +81,9 @@ Joinplots, Histograms, Stacked histograms, KDE plots, Violinplots, Boxplots.
 ### Time : 1H 45m
 ### Topics :
 Building dashboards in python
+
+# Day 15
+## Plotly
+### Time : 1H 30m
+### Topics :
+Styling plots, Plotly and Cufflinks.
