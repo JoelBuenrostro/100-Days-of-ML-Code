@@ -87,3 +87,9 @@ Building dashboards in python
 ### Time : 1H 30m
 ### Topics :
 Styling plots, Plotly and Cufflinks.
+
+# Day 16
+## 
+### Time : 1H
+### Topics :
+Geographical plotting, Choropleth Maps, Pandas datetime
