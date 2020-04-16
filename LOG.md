@@ -89,7 +89,7 @@ Building dashboards in python
 Styling plots, Plotly and Cufflinks.
 
 # Day 16
-## 
-### Time : 1H
+## Pandas Datetime
+### Time : 1H 30m
 ### Topics :
-Geographical plotting, Choropleth Maps, Pandas datetime
+Geographical plotting, Choropleth Maps, Pandas datetime.
