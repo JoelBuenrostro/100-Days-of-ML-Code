@@ -93,3 +93,9 @@ Styling plots, Plotly and Cufflinks.
 ### Time : 1H 30m
 ### Topics :
 Geographical plotting, Choropleth Maps, Pandas datetime.
+
+# Day 17
+## Creating features
+### Time : 1H 15m
+### Topics :
+Clustermaps, Heatmaps, Create features, 911 Calls Dataset analysis.
