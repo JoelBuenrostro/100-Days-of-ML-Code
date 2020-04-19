@@ -99,3 +99,9 @@ Geographical plotting, Choropleth Maps, Pandas datetime.
 ### Time : 1H 15m
 ### Topics :
 Clustermaps, Heatmaps, Create features, 911 Calls Dataset analysis.
+
+# Day 18
+## Introduction to Machine Learning
+### Time : 2H 30m
+### Topics :
+Scikit Learn package, Linear regression theorys

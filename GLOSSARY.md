@@ -15,6 +15,13 @@ In statistics, kernel density estimation (KDE) is a non-parametric way to estima
 In probability theory, the law of large numbers (LLN) is a theorem that describes the result of performing the same experiment a large number of times. According to the law, the average of the results obtained from a large number of trials should be close to the expected value and will tend to become closer to the expected value as more trials are performed.
 [Wikipedia](https://en.wikipedia.org/wiki/Law_of_large_numbers)
 
+## Linear regression :
+In statistics, linear regression is a linear approach to modeling the relationship between a scalar response (or dependent variable) and one or more explanatory variables (or independent variables).
+
+![Regression analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/330px-Linear_regression.svg.png)
+
+[Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
+
 ## Virtual environment :
 Self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages.
 [Python Docs](https://docs.python.org/3/tutorial/venv.html)

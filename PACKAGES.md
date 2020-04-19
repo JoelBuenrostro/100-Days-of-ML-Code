@@ -25,3 +25,7 @@ From machine learning and AI to statistical data models and predictive analytics
 ## Cufflinks
 This library binds the power of plotly with the flexibility of pandas for easy plotting.
 [Github](https://github.com/santosjorge/cufflinks)
+
+## SciKit-Learn
+Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities.
+[Homepage](https://scikit-learn.org/stable/)
