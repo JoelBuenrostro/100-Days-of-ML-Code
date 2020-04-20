@@ -104,4 +104,10 @@ Clustermaps, Heatmaps, Create features, 911 Calls Dataset analysis.
 ## Introduction to Machine Learning
 ### Time : 2H 30m
 ### Topics :
-Scikit Learn package, Linear regression theorys
+Scikit Learn package, Linear regression theory.
+
+# Day 19
+## Simple regression models
+### Time : 2H 15m
+### Topics :
+Building Regression Models with scikit-learn
