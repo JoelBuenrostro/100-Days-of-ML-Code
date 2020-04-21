@@ -47,6 +47,8 @@ algorithms.
 
 * [Using Python for Research](https://www.edx.org/course/using-python-for-research) - This course bridges the gap between introductory and advanced courses in Python. While there are many excellent introductory Python courses available, most typically do not go deep enough for you to apply your Python skills to research projects. In this course, after first reviewing the basics of Python 3, we learn about tools commonly used in research settings. This version of the course includes a new module on statistical learning.
 
+* [Building Regression Models with scikit-learn](https://app.pluralsight.com/library/courses/building-regression-models-scikit-learn/table-of-contents) - This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.
+
 ## Datasets
 
 * [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries) - One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014.
