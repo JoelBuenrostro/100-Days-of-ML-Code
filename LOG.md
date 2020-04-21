@@ -110,4 +110,10 @@ Scikit Learn package, Linear regression theory.
 ## Simple regression models
 ### Time : 2H 15m
 ### Topics :
-Building Regression Models with scikit-learn
+Building Regression Models with scikit-learn.
+
+# Day 20
+## Linear regression practice
+### Time : 1H 5m
+### Topics :
+Simple linear regression on a simple feature.
