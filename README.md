@@ -58,3 +58,5 @@ algorithms.
 * [Emergency - 911 Calls](https://www.kaggle.com/mchirico/montcoalert) - This file contains calls to 911 (emergency calls) in Montgomery County Pennsylvania. This is a simple flat, CSV file.
 
 * [USA Housing Prices](https://www.kaggle.com/vedavyasv/usa-housing) - USA Housing Prices.
+
+* [Titanic](https://www.kaggle.com/c/titanic/data) - Predict survival on the Titanic and get familiar with ML basics

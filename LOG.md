@@ -116,4 +116,16 @@ Building Regression Models with scikit-learn.
 ## Linear regression practice
 ### Time : 1H 5m
 ### Topics :
-Simple linear regression on a simple feature.
+Simple linear regression on a single feature.
+
+# Day 21
+## Introduction to logistic regression
+### Time : 1H 
+### Topics :
+Bias variance trade-off, Confusion matrix, Logistic regression with python.
+
+# Day 22
+## Logistic regression
+### Time : 1H 10m
+### Topics :
+Practice with the titanic dataset
