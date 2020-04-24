@@ -128,4 +128,10 @@ Bias variance trade-off, Confusion matrix, Logistic regression with python.
 ## Logistic regression
 ### Time : 1H 10m
 ### Topics :
-Practice with the titanic dataset
+Practice with the titanic dataset.
+
+# Day 23
+## KNN Theory
+### Time :1H
+### Topics :
+Introduction to K nearest neighbors.
