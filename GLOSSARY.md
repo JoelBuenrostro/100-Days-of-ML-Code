@@ -2,6 +2,10 @@
 Anaconda Distribution is a free, easy-to-install package manager, environment manager, and Python distribution with a collection of 1,500+ open source packages with free community support. Anaconda is platform-agnostic, so you can use it whether you are on Windows, macOS, or Linux.
 [Homepage](https://www.anaconda.com/)
 
+## K-Nearest neighbors ;
+In pattern recognition, the k-nearest neighbors algorithm (k-NN) is a non-parametric method used for classification and regression.[1] In both cases, the input consists of the k closest training examples in the feature space. The output depends on whether k-NN is used for classification or regression
+[Wikipedia](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+
 ## Kaggle :
 Inside Kaggle you’ll find all the code & data you need to do your data science work. Use over 19,000 public datasets and 200,000 public notebooks to conquer any analysis in no time.
 [Homepage](https://www.kaggle.com/)
@@ -21,6 +25,10 @@ In statistics, linear regression is a linear approach to modeling the relationsh
 ![Regression analysis](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Linear_regression.svg/330px-Linear_regression.svg.png)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
+
+## Random forest :
+Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.
+[Wikipedia](https://en.wikipedia.org/wiki/Random_forest)
 
 ## Virtual environment :
 Self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages.

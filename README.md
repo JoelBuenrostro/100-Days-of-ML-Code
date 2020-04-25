@@ -49,6 +49,12 @@ algorithms.
 
 * [Building Regression Models with scikit-learn](https://app.pluralsight.com/library/courses/building-regression-models-scikit-learn/table-of-contents) - This course covers important techniques such as ordinary least squares regression, moving on to lasso, ridge, and Elastic Net, and advanced techniques such as Support Vector Regression and Stochastic Gradient Descent Regression.
 
+* [r/datascience](https://www.reddit.com/r/datascience/) - A place for data science practitioners and professionals to discuss and debate data science career questions.
+
+* [r/MachineLearning](https://www.reddit.com/r/MachineLearning/) - Welcome to MachineLearning
+
+* [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - A subreddit dedicated to learning machine learning.
+
 ## Datasets
 
 * [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries) - One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014.
@@ -60,3 +66,5 @@ algorithms.
 * [USA Housing Prices](https://www.kaggle.com/vedavyasv/usa-housing) - USA Housing Prices.
 
 * [Titanic](https://www.kaggle.com/c/titanic/data) - Predict survival on the Titanic and get familiar with ML basics
+
+* [Lending Club data](https://www.kaggle.com/braindeadcoder/lending-club-data) - Loan repayment prediction

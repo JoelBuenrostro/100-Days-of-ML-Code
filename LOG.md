@@ -135,3 +135,9 @@ Practice with the titanic dataset.
 ### Time :1H
 ### Topics :
 Introduction to K nearest neighbors.
+
+# Day 24
+## Introduction to tree methods
+### Time : 1H 30m
+### Topics :
+Tree methods, Decision trees and random forest with python.
