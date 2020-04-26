@@ -141,3 +141,9 @@ Introduction to K nearest neighbors.
 ### Time : 1H 30m
 ### Topics :
 Tree methods, Decision trees and random forest with python.
+
+# Day 25
+## Random forest
+### Time : 2H 15m
+### Topics :
+Random forest practice.

@@ -76,3 +76,11 @@ df.to_csv('filename.csv', index=False, sep=',', encoding='utf-8')
 ```python
 f = pd.read_excel('path', 'sheet')
 ```
+### Select multiple columns at once
+```python
+df[['Name1', 'Name2', 'Name3']]
+```
+### Select multiple rows
+```python
+df.iloc[[0, 1, 2]]
+```
