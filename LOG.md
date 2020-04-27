@@ -147,3 +147,9 @@ Tree methods, Decision trees and random forest with python.
 ### Time : 2H 15m
 ### Topics :
 Random forest practice.
+
+# Day 26
+## Introduction to support vector machines
+### Time : 1H 30m
+### Topics :
+SVMs.

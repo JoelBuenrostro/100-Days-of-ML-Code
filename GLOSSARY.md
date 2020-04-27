@@ -30,6 +30,10 @@ In statistics, linear regression is a linear approach to modeling the relationsh
 Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.
 [Wikipedia](https://en.wikipedia.org/wiki/Random_forest)
 
+## Support vector machines :
+In machine learning, support-vector machines (SVMs, also support-vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
+[Wikipedi](https://en.wikipedia.org/wiki/Support-vector_machine)
+
 ## Virtual environment :
 Self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages.
 [Python Docs](https://docs.python.org/3/tutorial/venv.html)
