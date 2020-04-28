@@ -153,3 +153,9 @@ Random forest practice.
 ### Time : 1H 30m
 ### Topics :
 SVMs.
+
+# Day 27
+## Introduction to K Means clustering
+### Time : 1H 15m
+### Topics :
+K means algorithm theory.
