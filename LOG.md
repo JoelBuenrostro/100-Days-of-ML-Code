@@ -159,3 +159,9 @@ SVMs.
 ### Time : 1H 15m
 ### Topics :
 K means algorithm theory.
+
+# Day 28
+## PPrincipal component analysis
+### Time :
+### Topics :
+Principal component analysis with python,
