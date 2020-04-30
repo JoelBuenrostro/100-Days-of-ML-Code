@@ -162,6 +162,12 @@ K means algorithm theory.
 
 # Day 28
 ## PPrincipal component analysis
-### Time :
+### Time : 1H 
 ### Topics :
-Principal component analysis with python,
+Principal component analysis with python.
+
+# Day 29
+## Recommender Systems
+### Time : 1H 15m
+### Topic :
+Recommender systems with python.
