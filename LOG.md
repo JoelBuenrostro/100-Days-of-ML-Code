@@ -161,7 +161,7 @@ SVMs.
 K means algorithm theory.
 
 # Day 28
-## PPrincipal component analysis
+## Principal component analysis
 ### Time : 1H 
 ### Topics :
 Principal component analysis with python.
@@ -171,3 +171,9 @@ Principal component analysis with python.
 ### Time : 1H 15m
 ### Topic :
 Recommender systems with python.
+
+# Day 30
+## Introduction to natural language processing 
+### Time : 1H 
+### Topic :
+Natural language processing theory, NLP with python
