@@ -3,7 +3,7 @@ import seaborn as sns
 
 tips = sns.load_dataset('tips')
 
-block = ('-' * 80)
+block = ('=' * 60)
 
 print(block)
 print('            TOP 5 ROWS OF TIPS DATASET')
@@ -19,10 +19,12 @@ print(block)
 
 print(block)
 print('                 DATASET STATISTICS')
+print(block)
 print(tips.describe())
 print(block)
 
 print(block)
 print('                 NULL VALUES')
+print(block)
 print(tips.isnull().sum())
 print(block)

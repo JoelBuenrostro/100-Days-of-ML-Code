@@ -177,3 +177,9 @@ Recommender systems with python.
 ### Time : 1H 
 ### Topic :
 Natural language processing theory, NLP with python
+
+# Day 31
+## introduction to big data
+### Time :
+### Topic :
+Big data, Local vs distributed machines, HDFS.
