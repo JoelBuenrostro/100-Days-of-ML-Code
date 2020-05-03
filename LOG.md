@@ -180,6 +180,12 @@ Natural language processing theory, NLP with python
 
 # Day 31
 ## introduction to big data
-### Time :
+### Time : 1H 20m
 ### Topic :
 Big data, Local vs distributed machines, HDFS.
+
+# Day 32
+## Introduction to spark
+### Time : 1H
+### Topics :
+AWS account set-up, Lambda expressions
