@@ -30,9 +30,17 @@ In statistics, linear regression is a linear approach to modeling the relationsh
 
 [Wikipedia](https://en.wikipedia.org/wiki/Linear_regression)
 
+## Machine learning
+Machine learning (ML) is the study of computer algorithms that improve automatically through experience. It is seen as a subset of artificial intelligence.
+[Wikipedia](https://en.wikipedia.org/wiki/Machine_learning)
+
 ## Natural language processing
 Natural language processing (NLP) is a subfield of linguistics, computer science, information engineering, and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to process and analyze large amounts of natural language data.
 [Wikipedia](https://en.wikipedia.org/wiki/Natural_language_processing)
+
+## Neural networks
+neural networks are non-linear statistical data modeling or decision making tools. They can be used to model complex relationships between inputs and outputs or to find patterns in data.
+[Wikipedia](https://en.wikipedia.org/wiki/Neural_network#Artificial_intelligence)
 
 ## Random forest :
 Random forests or random decision forests are an ensemble learning method for classification, regression and other tasks that operate by constructing a multitude of decision trees at training time and outputting the class that is the mode of the classes (classification) or mean prediction (regression) of the individual trees.

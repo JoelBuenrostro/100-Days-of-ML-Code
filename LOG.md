@@ -188,4 +188,10 @@ Big data, Local vs distributed machines, HDFS.
 ## Introduction to spark
 ### Time : 1H
 ### Topics :
-AWS account set-up, Lambda expressions
+AWS account set-up, Lambda expressions.
+
+# Day 33
+## Introduction to neural networks
+### Time : 2H 
+### Topics :
+Neural networks theory, Perceptron.

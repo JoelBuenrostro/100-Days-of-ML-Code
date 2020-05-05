@@ -55,6 +55,8 @@ algorithms.
 
 * [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - A subreddit dedicated to learning machine learning.
 
+* [Machine learning matery](https://machinelearningmastery.com/) - Excelent site with good content about machine learning for developers
+
 ## Datasets
 
 * [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries) - One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014.
