@@ -195,3 +195,9 @@ AWS account set-up, Lambda expressions.
 ### Time : 2H 
 ### Topics :
 Neural networks theory, Perceptron.
+
+# Day 34
+## TensorFlow
+### Time : 1H 30m
+### Topics :
+What is TensorFlow, Installling TensorFlow
