@@ -50,6 +50,10 @@ Random forests or random decision forests are an ensemble learning method for cl
 In machine learning, support-vector machines (SVMs, also support-vector networks[1]) are supervised learning models with associated learning algorithms that analyze data used for classification and regression analysis.
 [Wikipedi](https://en.wikipedia.org/wiki/Support-vector_machine)
 
+## TensorFlow :
+Whether you’re an expert or a beginner, TensorFlow is an end-to-end platform that makes it easy for you to build and deploy ML models.
+[Homepage](https://www.tensorflow.org/)
+
 ## Virtual environment :
 Self-contained directory tree that contains a Python installation for a particular version of Python, plus a number of additional packages.
 [Python Docs](https://docs.python.org/3/tutorial/venv.html)

@@ -200,4 +200,10 @@ Neural networks theory, Perceptron.
 ## TensorFlow
 ### Time : 1H 30m
 ### Topics :
-What is TensorFlow, Installling TensorFlow
+What is TensorFlow, Installling TensorFlow.
+
+# Day 35
+## Introduction to TensorFlow
+### Time : 1h
+### Topics :
+TensorFlow outline, Types of file formats in TensorFlow.

@@ -29,3 +29,7 @@ This library binds the power of plotly with the flexibility of pandas for easy p
 ## SciKit-Learn
 Scikit-learn is an open source machine learning library that supports supervised and unsupervised learning. It also provides various tools for model fitting, data preprocessing, model selection and evaluation, and many other utilities.
 [Homepage](https://scikit-learn.org/stable/)
+
+## TensorFlow
+TensorFlow is an end-to-end open source platform for machine learning. It has a comprehensive, flexible ecosystem of tools, libraries and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML powered applications.
+[Homepage](https://www.tensorflow.org/)
