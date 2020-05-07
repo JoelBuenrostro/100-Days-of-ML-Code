@@ -207,3 +207,9 @@ What is TensorFlow, Installling TensorFlow.
 ### Time : 1h
 ### Topics :
 TensorFlow outline, Types of file formats in TensorFlow.
+
+# Day 36
+## TensorFlow Basics
+### Time :
+### Topics :
+TensorFlow model output, Loss function and gradient descent
