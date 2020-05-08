@@ -212,4 +212,10 @@ TensorFlow outline, Types of file formats in TensorFlow.
 ## TensorFlow Basics
 ### Time :
 ### Topics :
-TensorFlow model output, Loss function and gradient descent
+TensorFlow model output, Loss function and gradient descent.
+
+# Day 37
+## MNIST
+### Time : 1H 15m
+### Topics :
+Multi-layer perceptron
