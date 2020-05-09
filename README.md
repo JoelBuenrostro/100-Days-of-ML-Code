@@ -70,3 +70,5 @@ algorithms.
 * [Titanic](https://www.kaggle.com/c/titanic/data) - Predict survival on the Titanic and get familiar with ML basics
 
 * [Lending Club data](https://www.kaggle.com/braindeadcoder/lending-club-data) - Loan repayment prediction
+* [Iris Dataset](https://www.kaggle.com/uciml/iris) - The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
+It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
