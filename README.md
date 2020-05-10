@@ -55,9 +55,13 @@ algorithms.
 
 * [r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) - A subreddit dedicated to learning machine learning.
 
-* [Machine learning matery](https://machinelearningmastery.com/) - Excelent site with good content about machine learning for developers
+* [Machine learning mastery](https://machinelearningmastery.com/) - Excelent site with good content about machine learning for developers.
+
+* [FullBrain](https://fullbrain.org/) - Fullbrain is a social learning platform, to share and map all knowledge.
 
 ## Datasets
+
+* [UCI Machine learning repository](http://archive.ics.uci.edu/ml/index.php) - The UCI Machine Learning Repository is a database of machine learning problems that you can access for free.
 
 * [SF Salaries](https://www.kaggle.com/kaggle/sf-salaries) - One way to understand how a city government works is by looking at who it employs and how its employees are compensated. This data contains the names, job title, and compensation for San Francisco city employees on an annual basis from 2011 to 2014.
 

@@ -222,6 +222,12 @@ Multi-layer perceptron.
 
 # Day 38
 ## Estimators
-### Time : 
+### Time : 1H 15m
 ### Topics :
 TensorFlow estimators.
+
+# Day 39
+## Outlining the model
+### Time : 1H 30m
+### Topics :
+Deep neural network for MNIST classification.
