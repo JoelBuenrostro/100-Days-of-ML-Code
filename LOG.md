@@ -231,3 +231,9 @@ TensorFlow estimators.
 ### Time : 1H 30m
 ### Topics :
 Deep neural network for MNIST classification.
+
+# Day 40
+## K-fold cross validation
+### Time : 1H 30m
+### Topics :
+Building models
