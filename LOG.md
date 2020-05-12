@@ -236,4 +236,10 @@ Deep neural network for MNIST classification.
 ## K-fold cross validation
 ### Time : 1H 30m
 ### Topics :
-Building models
+Building models.
+
+# Day 41
+## Accuracy of prediction
+### Time : 1H 20m
+### Topics :
+Batching and early stopping.
