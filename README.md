@@ -59,6 +59,8 @@ algorithms.
 
 * [FullBrain](https://fullbrain.org/) - Fullbrain is a social learning platform, to share and map all knowledge.
 
+* [IBM Machine learning with python](https://www.coursera.org/learn/machine-learning-with-python/) - In this course, you practice with real-life examples of Machine learning and see how it affects society in ways you may not have guessed!
+
 ## Datasets
 
 * [UCI Machine learning repository](http://archive.ics.uci.edu/ml/index.php) - The UCI Machine Learning Repository is a database of machine learning problems that you can access for free.

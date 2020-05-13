@@ -243,3 +243,9 @@ Building models.
 ### Time : 1H 20m
 ### Topics :
 Batching and early stopping.
+
+# Day  42
+## Deep nets
+### Time :
+### Topics :
+Understanding deep nets.
