@@ -246,6 +246,6 @@ Batching and early stopping.
 
 # Day  42
 ## Deep nets
-### Time :
+### Time : 1H
 ### Topics :
 Understanding deep nets.
