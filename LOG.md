@@ -249,3 +249,9 @@ Batching and early stopping.
 ### Time : 1H
 ### Topics :
 Understanding deep nets.
+
+# Day 43
+## Backpropagation
+### Time : 1H
+### Topics :
+Softmax activation, Backpropagation.
