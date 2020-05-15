@@ -255,3 +255,9 @@ Understanding deep nets.
 ### Time : 1H
 ### Topics :
 Softmax activation, Backpropagation.
+
+# Day 44
+## Underfitting and overfitting
+### Time : 1H 15m
+### Topics :
+Training and validation, N-fold cross validation, early stopping.
