@@ -261,3 +261,9 @@ Softmax activation, Backpropagation.
 ### Time : 1H 15m
 ### Topics :
 Training and validation, N-fold cross validation, early stopping.
+
+# Day 45
+## Initialization
+### Time : 1H
+### Topics :
+Types of simple initializations, Xavier initialization.
