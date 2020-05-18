@@ -267,3 +267,9 @@ Training and validation, N-fold cross validation, early stopping.
 ### Time : 1H
 ### Topics :
 Types of simple initializations, Xavier initialization.
+
+# Day 46
+## The data pipeline
+### Time : 1H 20m
+### Topics :
+Data ingestion with Python.
