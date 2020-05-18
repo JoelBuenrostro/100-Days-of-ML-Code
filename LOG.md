@@ -273,3 +273,9 @@ Types of simple initializations, Xavier initialization.
 ### Time : 1H 20m
 ### Topics :
 Data ingestion with Python.
+
+# Day 47
+## Working with JSON
+### Time : 1H 30m
+### Topics :
+Making HTTP calls, Processing event-based data
