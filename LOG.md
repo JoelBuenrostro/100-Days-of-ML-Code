@@ -278,4 +278,10 @@ Data ingestion with Python.
 ## Working with JSON
 ### Time : 1H 30m
 ### Topics :
-Making HTTP calls, Processing event-based data
+Making HTTP calls, Processing event-based data.
+
+# Day 48
+## Stochastic gradient descent
+### Time :
+### Topics :
+Gradient descent pitfalls, learning rate schedules
