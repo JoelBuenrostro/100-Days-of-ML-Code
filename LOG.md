@@ -282,6 +282,6 @@ Making HTTP calls, Processing event-based data.
 
 # Day 48
 ## Stochastic gradient descent
-### Time :
+### Time : 1H
 ### Topics :
-Gradient descent pitfalls, learning rate schedules
+Gradient descent pitfalls, learning rate schedules.
