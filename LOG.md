@@ -285,3 +285,9 @@ Making HTTP calls, Processing event-based data.
 ### Time : 1H
 ### Topics :
 Gradient descent pitfalls, learning rate schedules.
+
+# Day 49
+## Preprocessing
+### Time : 1H 3Om
+### Topics :
+Basic preprocessing, Standardization
