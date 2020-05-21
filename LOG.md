@@ -290,4 +290,10 @@ Gradient descent pitfalls, learning rate schedules.
 ## Preprocessing
 ### Time : 1H 3Om
 ### Topics :
-Basic preprocessing, Standardization
+Basic preprocessing, Standardization.
+
+# Day 50
+## The three types of data visualization
+### Time :
+### Topics :
+Selecting optimal data graphics, Communicating with color and context.
