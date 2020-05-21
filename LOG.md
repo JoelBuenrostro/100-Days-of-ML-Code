@@ -294,6 +294,6 @@ Basic preprocessing, Standardization.
 
 # Day 50
 ## The three types of data visualization
-### Time :
+### Time : 1H 15m
 ### Topics :
 Selecting optimal data graphics, Communicating with color and context.
