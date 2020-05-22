@@ -297,3 +297,9 @@ Basic preprocessing, Standardization.
 ### Time : 1H 15m
 ### Topics :
 Selecting optimal data graphics, Communicating with color and context.
+
+# Day 51
+## Dealing with categorical data
+### Time : 1H 15m
+### Topics :
+One-hot encoding and binary encoding. 
