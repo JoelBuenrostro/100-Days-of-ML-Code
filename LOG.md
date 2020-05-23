@@ -302,4 +302,10 @@ Selecting optimal data graphics, Communicating with color and context.
 ## Dealing with categorical data
 ### Time : 1H 15m
 ### Topics :
-One-hot encoding and binary encoding. 
+One-hot encoding and binary encoding.
+
+# Day 52
+## Transforming dataset distributions
+### Time ; 1H
+### Topics :
+Extreme value analysis for outliers, Multivariate analysis for outliers
