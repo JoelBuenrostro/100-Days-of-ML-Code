@@ -308,4 +308,10 @@ One-hot encoding and binary encoding.
 ## Transforming dataset distributions
 ### Time ; 1H
 ### Topics :
-Extreme value analysis for outliers, Multivariate analysis for outliers
+Extreme value analysis for outliers, Multivariate analysis for outliers.
+
+# Day 53
+## Balancing the dataset
+### Time : 1H
+### Topics :
+Preprocessing the data.
