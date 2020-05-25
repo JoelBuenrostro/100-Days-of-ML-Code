@@ -315,3 +315,9 @@ Extreme value analysis for outliers, Multivariate analysis for outliers.
 ### Time : 1H
 ### Topics :
 Preprocessing the data.
+
+# Day 54
+## Outlining the model
+### Time : 1H
+### Topics :
+Interpreting the result.
