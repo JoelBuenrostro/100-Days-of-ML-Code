@@ -321,3 +321,9 @@ Preprocessing the data.
 ### Time : 1H
 ### Topics :
 Interpreting the result.
+
+# Day 55
+## Defining data science
+### Time : 1H 15m
+### Topics :
+Where does AI fit in.
