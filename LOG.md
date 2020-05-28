@@ -332,4 +332,10 @@ Where does AI fit in.
 ## Chatbots
 ### Time : 1H 30m
 ### Topics :
-Starting with chatbots
+Starting with chatbots.
+
+# Day 57
+## Clustering models
+### Time : 1H
+### Topics :
+K-means method, Hierarchical methods, DBSCAN for outlier detection.
