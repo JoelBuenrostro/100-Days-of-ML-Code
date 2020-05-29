@@ -339,3 +339,9 @@ Starting with chatbots.
 ### Time : 1H
 ### Topics :
 K-means method, Hierarchical methods, DBSCAN for outlier detection.
+
+# Day 58
+## NLP libraries in Python
+### Time : 1H
+### Topics :
+NLTK packages
