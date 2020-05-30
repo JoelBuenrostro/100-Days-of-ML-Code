@@ -344,4 +344,10 @@ K-means method, Hierarchical methods, DBSCAN for outlier detection.
 ## NLP libraries in Python
 ### Time : 1H
 ### Topics :
-NLTK packages
+NLTK packages.
+
+# Day 59
+## Python scientific stack
+### Time : 1H
+### Topics :
+Understanding broadcasting, understanding ufuncs

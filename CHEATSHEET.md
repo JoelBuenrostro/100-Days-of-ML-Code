@@ -58,6 +58,9 @@ def square(number):
 ```python
 a = np.array([2,3,4])
 ```
+```python
+b = np.array(([1,2,3], [4,5,6], [5,4,3]))
+```
 
 ## Pandas
 ### Read CSV
@@ -84,3 +87,20 @@ df[['Name1', 'Name2', 'Name3']]
 ```python
 df.iloc[[0, 1, 2]]
 ```
+
+## Jupyter notebook magic commands
+### Time
+%time
+%timeit
+
+### Matplotlib
+%matplotlib inline
+
+### Autoreload
+%load_ext autoreload
+
+### System
+%system date
+
+### Variables
+%who_is
