@@ -350,4 +350,10 @@ NLTK packages.
 ## Python scientific stack
 ### Time : 1H
 ### Topics :
-Understanding broadcasting, understanding ufuncs
+Understanding broadcasting, understanding ufuncs.
+
+# Day 60
+## Calculate speed
+### Time : 1H
+### Topics :
+Display a speed box plot

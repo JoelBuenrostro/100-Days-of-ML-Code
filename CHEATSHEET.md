@@ -67,6 +67,11 @@ b = np.array(([1,2,3], [4,5,6], [5,4,3]))
 ```python
 f = pd.read_csv('path')
 ```
+### Read CSV file and parse date
+```
+f =] pd.read_csv(file, parse_dates=['column_name'])
+
+
 ### Get dataframe column names
 ```python
 df.columns
