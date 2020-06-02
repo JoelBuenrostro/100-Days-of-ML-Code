@@ -357,3 +357,9 @@ Understanding broadcasting, understanding ufuncs.
 ### Time : 1H
 ### Topics :
 Display a speed box plot
+
+# Day 61
+## Naive Bayes
+### Time : 1H 20m
+### Topics :
+Naive Bayes classifier.
