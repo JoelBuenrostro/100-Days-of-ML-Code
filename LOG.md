@@ -363,3 +363,9 @@ Display a speed box plot
 ### Time : 1H 20m
 ### Topics :
 Naive Bayes classifier.
+
+# Day 62
+## Practical machine learning with python
+### Time : 1H 30m
+### Topics :
+Machine learning pipeline.
