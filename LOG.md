@@ -369,3 +369,9 @@ Naive Bayes classifier.
 ### Time : 1H 30m
 ### Topics :
 Machine learning pipeline.
+
+# Day 63
+## Making data driven decisions
+### Time : 1H 30m
+### Topics :
+Customize pandas output
