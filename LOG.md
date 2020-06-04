@@ -375,3 +375,9 @@ Machine learning pipeline.
 ### Time : 1H 30m
 ### Topics :
 Customize pandas output
+
+# Day 64
+## Exporinng Spotify dataset
+### Time : 1H 20m
+### Topics :
+Practice EDA analysis.

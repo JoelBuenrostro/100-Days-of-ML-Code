@@ -76,5 +76,8 @@ algorithms.
 * [Titanic](https://www.kaggle.com/c/titanic/data) - Predict survival on the Titanic and get familiar with ML basics
 
 * [Lending Club data](https://www.kaggle.com/braindeadcoder/lending-club-data) - Loan repayment prediction
+
 * [Iris Dataset](https://www.kaggle.com/uciml/iris) - The Iris dataset was used in R.A. Fisher's classic 1936 paper, The Use of Multiple Measurements in Taxonomic Problems, and can also be found on the UCI Machine Learning Repository.
 It includes three iris species with 50 samples each as well as some properties about each flower. One flower species is linearly separable from the other two, but the other two are not linearly separable from each other.
+
+* [Spotify Dataset 1921-2020](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) - The file contains more than 160.000 songs collected from Spotify Web API, and also you can find data grouped by artist, year, or genre in the data section.
