@@ -377,7 +377,12 @@ Machine learning pipeline.
 Customize pandas output
 
 # Day 64
-## Exporinng Spotify dataset
+## Exporing Spotify dataset
 ### Time : 1H 20m
 ### Topics :
 Practice EDA analysis.
+
+# Day 65
+## 
+### Time :
+### Topics :
