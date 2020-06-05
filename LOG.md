@@ -374,7 +374,7 @@ Machine learning pipeline.
 ## Making data driven decisions
 ### Time : 1H 30m
 ### Topics :
-Customize pandas output
+Customize pandas output.
 
 # Day 64
 ## Exploring Spotify dataset
@@ -392,4 +392,10 @@ Understanding the spotify data.
 ## Song analysis
 ### Time : 2H 15m
 ### Topics :
-Analysis on over 160K songs on Spotify
+Analysis on over 160K songs on Spotify.
+
+# Day 67
+## Spotify 35 most popular songs analysis
+### Time : 1H 40m
+### Topics :
+Analysis on popular songs.

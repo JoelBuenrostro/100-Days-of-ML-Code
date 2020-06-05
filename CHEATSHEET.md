@@ -71,7 +71,6 @@ f = pd.read_csv('path')
 ```
 f =] pd.read_csv(file, parse_dates=['column_name'])
 ```
-
 ### Get dataframe column names
 ```python
 df.columns
@@ -91,6 +90,14 @@ df[['Name1', 'Name2', 'Name3']]
 ### Select multiple rows
 ```python
 df.iloc[[0, 1, 2]]
+```
+### Sort a dataframe in an ascending order
+```python
+df.sort_values(by=["value"], inplace=True)
+```
+### Drop columns by name
+```python
+df.drop(columns=["B", "C"])
 ```
 
 ## Jupyter notebook magic commands
