@@ -70,7 +70,7 @@ f = pd.read_csv('path')
 ### Read CSV file and parse date
 ```
 f =] pd.read_csv(file, parse_dates=['column_name'])
-
+```
 
 ### Get dataframe column names
 ```python

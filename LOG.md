@@ -377,7 +377,7 @@ Machine learning pipeline.
 Customize pandas output
 
 # Day 64
-## Exporing Spotify dataset
+## Exploring Spotify dataset
 ### Time : 1H 20m
 ### Topics :
 Practice EDA analysis.
@@ -386,4 +386,10 @@ Practice EDA analysis.
 ## Exploratory data analysis to Spotify data
 ### Time : 2H
 ### Topics :
-Understanding the data.
+Understanding the spotify data.
+
+# Day 66
+## Song analysis
+### Time : 2H 15m
+### Topics :
+Analysis on over 160K songs on Spotify
