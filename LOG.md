@@ -383,6 +383,7 @@ Customize pandas output
 Practice EDA analysis.
 
 # Day 65
-## 
-### Time :
+## Exploratory data analysis to Spotify data
+### Time : 2H
 ### Topics :
+Understanding the data.
