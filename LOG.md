@@ -405,3 +405,9 @@ Analysis on popular songs.
 ### Time : 2H 30m
 ### Topics :
 Trends in Spotify songs in the last 100 years.
+
+# Day 69
+## Exploring the most popular song per year
+### Time : 1H 30m
+### Topics :
+Creating new data subsets.

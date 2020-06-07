@@ -1,0 +1,101 @@
+,year,artists,name,popularity
+0,1921,['Dennis Day'],Clancy Lowered the Boom,8
+1,1922,['Uli'],Carve,10
+2,1923,['Bessie Smith'],Nobody Knows You When You're Down and Out,45
+3,1924,"['Paul Whiteman & His Orchestra', 'Bix Beiderbecke']",Mississippi Mud,13
+4,1925,['Tommy Dorsey'],"On the Sunny Side of the Street (From ""Is Everybody Happy?"")",39
+5,1926,['Fats Waller'],Ain't Misbehavin',46
+6,1927,['Bix Beiderbecke'],Singin' The Blues,40
+7,1928,['Benny Goodman'],"Sing, Sing, Sing",51
+8,1929,['Louis Armstrong'],Mack the Knife,50
+9,1930,"['Franz Liszt', 'Vladimir Horowitz']","Hungarian Rhapsody No. 2 in C-Sharp Minor, S. 244/2",48
+10,1931,['Sexteto Habanero'],La Chambelona,18
+11,1932,"['Bing Crosby', 'Lenny Hayton & His Orchestra']","Brother, Can You Spare a Dime? (with Lenny Hayton & His Orchestra)",34
+12,1933,"['Billie Holiday', 'Eddie Heywood']",All of Me (with Eddie Heywood & His Orchestra),62
+13,1934,"['Richard Himber and his Orchestra', 'Johnny Mercer']",Doin' The Uptown Lowdown,35
+14,1935,['Fred Astaire'],Cheek to Cheek,46
+15,1936,"['Billie Holiday', 'Teddy Wilson']",The Way You Look Tonight (with Teddy Wilson & His Orchestra) - Take 2,47
+16,1937,['Robert Johnson'],Cross Road Blues,54
+17,1938,['Roy Acuff'],Wabash Cannonball,40
+18,1939,['Harry James'],"It's Been a Long, Long Time",57
+19,1940,['Max Steiner'],Main Title - Gone With the Wind,35
+20,1941,['Peggy Lee'],On the Sunny Side of the Street,41
+21,1942,"['Bing Crosby', 'Ken Darby Singers', 'John Scott Trotter & His Orchestra']",White Christmas,50
+22,1943,['Frank Sinatra'],Someone to Watch Over Me,54
+23,1944,['Frank Sinatra'],Nancy (With the Laughing Face) - 78rpm Version,56
+24,1945,"['Doris Day', 'The Mellomen']",Again (with The Mellomen),58
+25,1946,['Dizzy Gillespie'],Manteca,40
+26,1947,['Willie Dixon'],I Can't Quit You Baby,50
+27,1948,"['Doris Day', 'Frank DeVol & His Orchestra']","Whatever Will Be, Will Be (Que Sera, Sera) (with Frank DeVol & His Orchestra)",63
+28,1949,"['Erik Satie', 'Philippe Entremont']",Gymnopédie No. 1,65
+29,1950,['Ella Fitzgerald'],Someone To Watch Over Me,52
+30,1951,['Thelonious Monk'],'Round Midnight,57
+31,1952,['Gene Kelly'],Singin' In The Rain,52
+32,1953,"['Claude Debussy', 'Alexis Weissenberg']",Claire de lune,58
+33,1954,['Nat King Cole'],Unforgettable,64
+34,1955,['Julie London'],I'm In The Mood For Love,61
+35,1956,['Frank Sinatra'],I've Got You Under My Skin - Remastered 1998,67
+36,1957,"['Ella Fitzgerald', 'Louis Armstrong']",Dream A Little Dream Of Me - Single Version,71
+37,1958,['Elvis Presley'],Jailhouse Rock,73
+38,1959,['Chuck Berry'],Johnny B. Goode,73
+39,1960,['Etta James'],At Last,74
+40,1961,['Elvis Presley'],Can't Help Falling in Love,78
+41,1962,['Ben E. King'],Stand by Me,78
+42,1963,['The Beatles'],Twist And Shout - Remastered 2009,74
+43,1964,['Simon & Garfunkel'],The Sound of Silence - Acoustic Version,75
+44,1965,['The Temptations'],My Girl,79
+45,1966,['The Rolling Stones'],"Paint It, Black",78
+46,1967,['Van Morrison'],Brown Eyed Girl,80
+47,1968,['Jimi Hendrix'],All Along the Watchtower,76
+48,1969,['The Beatles'],Here Comes The Sun - Remastered 2009,83
+49,1970,['The Beatles'],Let It Be - Remastered 2009,79
+50,1971,['Elton John'],Tiny Dancer,79
+51,1972,['Elton John'],"Rocket Man (I Think It's Going To Be A Long, Long Time)",81
+52,1973,['Aerosmith'],Dream On,78
+53,1974,['Lynyrd Skynyrd'],Sweet Home Alabama,82
+54,1975,['Fleetwood Mac'],Landslide,78
+55,1976,['Eagles'],Hotel California - 2013 Remaster,82
+56,1977,['Electric Light Orchestra'],Mr. Blue Sky,80
+57,1978,['The Police'],Roxanne,77
+58,1979,['AC/DC'],Highway to Hell,83
+59,1980,['AC/DC'],Back In Black,82
+60,1981,['Journey'],Don't Stop Believin',80
+61,1982,['TOTO'],Africa,83
+62,1983,['The Police'],Every Breath You Take,83
+63,1984,['Bryan Adams'],Summer Of '69,81
+64,1985,['a-ha'],Take on Me,83
+65,1986,['Bon Jovi'],Livin' On A Prayer,83
+66,1987,['Whitney Houston'],I Wanna Dance with Somebody (Who Loves Me),81
+67,1988,['Tracy Chapman'],Fast Car,78
+68,1989,['Tom Petty'],Free Fallin',78
+69,1990,['AC/DC'],Thunderstruck,81
+70,1991,['R.E.M.'],Losing My Religion,80
+71,1992,['4 Non Blondes'],What's Up?,78
+72,1993,['Radiohead'],Creep,81
+73,1994,['The Cranberries'],Zombie,79
+74,1995,"['Coolio', 'L.V.']",Gangsta's Paradise,80
+75,1996,['Spice Girls'],Wannabe,79
+76,1997,['The Verve'],Bitter Sweet Symphony,78
+77,1998,['The Goo Goo Dolls'],Iris,77
+78,1999,['Red Hot Chili Peppers'],Californication,80
+79,2000,['Linkin Park'],In the End,83
+80,2001,['System Of A Down'],Chop Suey!,79
+81,2002,['Coldplay'],The Scientist,83
+82,2003,['Linkin Park'],Numb,81
+83,2004,"['Usher', 'Lil Jon', 'Ludacris']",Yeah! (feat. Lil Jon & Ludacris),79
+84,2005,"['Shakira', 'Wyclef Jean']",Hips Don't Lie (feat. Wyclef Jean),82
+85,2006,['Red Hot Chili Peppers'],Snow (Hey Oh),78
+86,2007,['Kanye West'],Stronger,80
+87,2008,['Jason Mraz'],I'm Yours,82
+88,2009,['Owl City'],Fireflies,79
+89,2010,['Train'],"Hey, Soul Sister",82
+90,2011,['Foster The People'],Pumped Up Kicks,83
+91,2012,['Bruno Mars'],When I Was Your Man,82
+92,2013,['John Legend'],All of Me,85
+93,2014,['Sam Smith'],Stay With Me,83
+94,2015,['Melanie Martinez'],Play Date,88
+95,2016,['Travis Scott'],goosebumps,92
+96,2017,['Imagine Dragons'],Believer,87
+97,2018,['Trevor Daniel'],Falling,93
+98,2019,['Roddy Ricch'],The Box,97
+99,2020,['The Weeknd'],Blinding Lights,100
