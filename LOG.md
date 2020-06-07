@@ -399,3 +399,9 @@ Analysis on over 160K songs on Spotify.
 ### Time : 1H 40m
 ### Topics :
 Analysis on popular songs.
+
+# Day 68
+## Visual representation of data
+### Time : 2H 30m
+### Topics :
+Trends in Spotify songs in the last 100 years.
