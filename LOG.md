@@ -411,3 +411,9 @@ Trends in Spotify songs in the last 100 years.
 ### Time : 1H 30m
 ### Topics :
 Creating new data subsets.
+
+# Day 70
+## Playing with the spotify data
+### Time : 1H
+### Topics :
+Defining the problem.
