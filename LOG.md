@@ -423,3 +423,9 @@ Defining the problem.
 ### Time : 1h 45m
 ### Topics :
 Practice with the dataset.
+
+# Day 72
+## Using spotipy module
+### Time : 2H 20m
+### Topics :
+Setting up spotify oauth.
