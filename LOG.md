@@ -417,3 +417,9 @@ Creating new data subsets.
 ### Time : 1H
 ### Topics :
 Defining the problem.
+
+# Day 71
+## Exploratory data analysis on the most popular song of each year
+### Time : 1h 45m
+### Topics :
+Practice with the dataset.
