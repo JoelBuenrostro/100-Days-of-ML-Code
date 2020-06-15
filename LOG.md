@@ -435,3 +435,9 @@ Setting up spotify oauth.
 ### Time : 1H
 ### Topics :
 The LDA representation.
+
+# Day 74
+## Naive Bayes algorithm
+### Time : 1H 10m
+### Topics :
+Probability of each class, Conditional probability for each class given each x value.
