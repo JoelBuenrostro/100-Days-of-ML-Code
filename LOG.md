@@ -429,3 +429,9 @@ Practice with the dataset.
 ### Time : 2H 20m
 ### Topics :
 Setting up spotify oauth.
+
+# Day 73
+## Linear discriminant analysisi algorithm
+### Time : 1H
+### Topics :
+The LDA representation.
