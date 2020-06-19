@@ -446,4 +446,10 @@ Probability of each class, Conditional probability for each class given each x v
 ## Recommendation systems and linear algebra
 ### Time : 1H 30m
 ### Topics :
-Content-based recommendation systems, collaborative filtering recommendation systems
+Content-based recommendation systems, collaborative filtering recommendation systems.
+
+# Day 76
+## Principal component analysis
+### Time : 1H
+### Topics :
+Differences between linear regression and principal component analysis.
