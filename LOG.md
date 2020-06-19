@@ -441,3 +441,9 @@ The LDA representation.
 ### Time : 1H 10m
 ### Topics :
 Probability of each class, Conditional probability for each class given each x value.
+
+# Day 75
+## Recommendation systems and linear algebra
+### Time : 1H 30m
+### Topics :
+Content-based recommendation systems, collaborative filtering recommendation systems
